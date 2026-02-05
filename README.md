@@ -115,6 +115,8 @@ This repository aggregates the best capabilities from across the open-source com
 ## Features & Categories
 
 The repository is organized into specialized domains to transform your AI into an expert across the entire software development lifecycle:
+<img width="2752" height="1536" alt="Gemini_Generated_Image_w0az37w0az37w0az" src="https://github.com/user-attachments/assets/27cbd0d4-0ecb-4b36-9767-cb00a5072280" />
+
 
 | Category            | Focus                                              | Example skills                                                                  |
 | :------------------ | :------------------------------------------------- | :------------------------------------------------------------------------------ |
